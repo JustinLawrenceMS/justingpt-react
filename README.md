@@ -75,4 +75,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
  1st iteration: pure ChatGPT origin
 
-![image](https://github.com/JustinLawrenceMS/justingpt-react/assets/43936909/c6819413-a526-44e9-a287-f7e0af4f6860)
+![image](https://github.com/JustinLawrenceMS/justingpt-react/assets/43936909/0e37c8f7-27aa-472d-8753-6bb2f113dd8e)
