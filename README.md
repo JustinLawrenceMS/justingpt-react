@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# justingpt-react
+
+This project is based on a react component that was created by ChatGPT.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -68,3 +70,9 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+# changelog
+
+ 1st iteration: pure ChatGPT origin
+
+![image](https://github.com/JustinLawrenceMS/justingpt-react/assets/43936909/0e37c8f7-27aa-472d-8753-6bb2f113dd8e)
