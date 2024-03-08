@@ -76,3 +76,9 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
  1st iteration: pure ChatGPT origin
 
 ![image](https://github.com/JustinLawrenceMS/justingpt-react/assets/43936909/0e37c8f7-27aa-472d-8753-6bb2f113dd8e)
+
+2nd iteration: styled chatbox and allowed input on enter
+
+![image](https://github.com/JustinLawrenceMS/justingpt-react/assets/43936909/80e9632b-0e3a-4905-ba05-85ae435c3171)
+
+
