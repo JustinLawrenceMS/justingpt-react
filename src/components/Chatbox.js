@@ -4,6 +4,11 @@ function Chatbox() {
   const [messages, setMessages] = useState([]);
   const [inputText, setInputText] = useState('');
 
+  const handleKeyPress = (e) => {
+    if (e.key === 'Enter') {
+      handleMessageSubmit();
+    }
+  }
   const handleMessageSubmit = () => {
     if (inputText.trim() !== '') {
       const userMessage = inputText.trim();
@@ -30,6 +35,7 @@ function Chatbox() {
         <input
           type="text"
           value={inputText}
+	  onKeyPress={(e) => handleKeyPress(e)}
           onChange={(e) => setInputText(e.target.value)}
           placeholder="Type your message..."
         />
